@@ -1,0 +1,14 @@
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\bin\Debug\net7.0\DexefTask.DAL.deps.json
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\bin\Debug\net7.0\DexefTask.DAL.runtimeconfig.json
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\bin\Debug\net7.0\DexefTask.DAL.dll
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\bin\Debug\net7.0\DexefTask.DAL.pdb
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\obj\Debug\net7.0\DexefTask.DAL.csproj.AssemblyReference.cache
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\obj\Debug\net7.0\DexefTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\obj\Debug\net7.0\DexefTask.DAL.AssemblyInfoInputs.cache
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\obj\Debug\net7.0\DexefTask.DAL.AssemblyInfo.cs
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\obj\Debug\net7.0\DexefTask.DAL.csproj.CoreCompileInputs.cache
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\obj\Debug\net7.0\DexefTask.DAL.dll
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\obj\Debug\net7.0\refint\DexefTask.DAL.dll
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\obj\Debug\net7.0\DexefTask.DAL.pdb
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\obj\Debug\net7.0\DexefTask.DAL.genruntimeconfig.cache
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.DAL\obj\Debug\net7.0\ref\DexefTask.DAL.dll

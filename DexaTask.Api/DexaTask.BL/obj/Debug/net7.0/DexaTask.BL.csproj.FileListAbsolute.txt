@@ -1,0 +1,15 @@
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\bin\Debug\net7.0\DexaTask.BL.deps.json
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\bin\Debug\net7.0\DexaTask.BL.dll
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\bin\Debug\net7.0\DexaTask.BL.pdb
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\bin\Debug\net7.0\DexaTask.DAL.dll
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\bin\Debug\net7.0\DexaTask.DAL.pdb
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\obj\Debug\net7.0\DexaTask.BL.csproj.AssemblyReference.cache
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\obj\Debug\net7.0\DexaTask.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\obj\Debug\net7.0\DexaTask.BL.AssemblyInfoInputs.cache
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\obj\Debug\net7.0\DexaTask.BL.AssemblyInfo.cs
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\obj\Debug\net7.0\DexaTask.BL.csproj.CoreCompileInputs.cache
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\obj\Debug\net7.0\DexaTask.BL.csproj.CopyComplete
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\obj\Debug\net7.0\DexaTask.BL.dll
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\obj\Debug\net7.0\refint\DexaTask.BL.dll
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\obj\Debug\net7.0\DexaTask.BL.pdb
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.BL\obj\Debug\net7.0\ref\DexaTask.BL.dll

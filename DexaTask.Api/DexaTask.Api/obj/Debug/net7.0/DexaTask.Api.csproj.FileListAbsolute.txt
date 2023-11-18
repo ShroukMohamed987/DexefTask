@@ -1,0 +1,7 @@
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.Api\obj\Debug\net7.0\DexaTask.Api.csproj.AssemblyReference.cache
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.Api\obj\Debug\net7.0\DexaTask.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.Api\obj\Debug\net7.0\DexaTask.Api.AssemblyInfoInputs.cache
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.Api\obj\Debug\net7.0\DexaTask.Api.AssemblyInfo.cs
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.Api\obj\Debug\net7.0\DexaTask.Api.csproj.CoreCompileInputs.cache
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.Api\obj\Debug\net7.0\DexaTask.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\courses\projects\DexaTask\DexaTask.Api\DexaTask.Api\obj\Debug\net7.0\DexaTask.Api.MvcApplicationPartsAssemblyInfo.cache
